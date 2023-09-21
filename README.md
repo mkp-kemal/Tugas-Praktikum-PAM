@@ -1,4 +1,5 @@
 # Tugas-Praktikum-PAM
 
 Screenshot
-https://github.com/mkp-kemal/Tugas-Praktikum-PAM/blob/main/Modul%203.gif
+![screenshot-modul3](https://github.com/mkp-kemal/Tugas-Praktikum-PAM/raw/main/Screenshot.gif)
+
